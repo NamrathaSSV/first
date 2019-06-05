@@ -4,3 +4,7 @@ States covered
 
 1) NC
 2) GA
+3) PA
+4) NY
+5) DV
+6) SC
